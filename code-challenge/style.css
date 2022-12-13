@@ -7,6 +7,12 @@ html, body {
   padding: 0;
 }
 
+#reset-btn, .btnx{
+  padding: 10px 30px;
+  border: 0;
+  outline: 0;
+}
+
 .logo{
   text-align: center;
   background-color: rgb(49, 109, 179);
